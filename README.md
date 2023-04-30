@@ -5,7 +5,8 @@ This is a simple webpage that visualizes the page replacement algorithms used in
 
 Installation
 1.Clone the repository
-git clone https://github.com/jay1820/page-replacement-visualizer.git
+
+git clone https://github.com/JAY1820/Page_Replcement_Visulizer
 
 
 2.Open the index.html file in your web browser.
