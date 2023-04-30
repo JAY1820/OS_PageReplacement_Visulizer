@@ -1,9 +1,5 @@
 
 # Page_Replcement_Visulizer
-The Page Replacement Visualizer is a web application that allows users to visualize and simulate different page replacement algorithms used in operating systems. The project is built using JavaScript, and is designed to be user-friendly and easy to understand.
-=======
-# JAY1820.github.io
- 
 Page Replacement Visualizer Algorithm in HTML
 This is a simple webpage that visualizes the page replacement algorithms used in operating systems. This project can be used to help students understand how page replacement algorithms work and how they can be implemented.
 
