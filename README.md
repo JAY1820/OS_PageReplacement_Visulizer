@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Page_Replcement_Visulizer
 The Page Replacement Visualizer is a web application that allows users to visualize and simulate different page replacement algorithms used in operating systems. The project is built using JavaScript, and is designed to be user-friendly and easy to understand.
 =======
@@ -8,14 +9,12 @@ This is a simple webpage that visualizes the page replacement algorithms used in
 
 Installation
 1.Clone the repository
-
-https://github.com/JAY1820/Page_Replcement_Visulizer
-
-
+git clone https://github.com/jay1820/page-replacement-visualizer.git
 2.Open the index.html file in your web browser.
 Usage
 The page replacement algorithms that are currently implemented in this project are:
 •	First In First Out (FIFO)
+
 
 To use the visualization tool, follow these steps:
 •	Select a page replacement algorithm from the dropdown menu.
@@ -24,4 +23,4 @@ To use the visualization tool, follow these steps:
 •	Click the "Start" button to begin the simulation.
 •	The simulation will run and display the results on the screen. You can step through the simulation using the "Next" button.
 
-
+>>>>>>> 5fc0595 (fifo algorithem)
