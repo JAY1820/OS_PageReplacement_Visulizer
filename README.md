@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Page_Replcement_Visulizer
 The Page Replacement Visualizer is a web application that allows users to visualize and simulate different page replacement algorithms used in operating systems. The project is built using JavaScript, and is designed to be user-friendly and easy to understand.
 =======
@@ -23,4 +23,3 @@ To use the visualization tool, follow these steps:
 •	Click the "Start" button to begin the simulation.
 •	The simulation will run and display the results on the screen. You can step through the simulation using the "Next" button.
 
->>>>>>> 5fc0595 (fifo algorithem)
